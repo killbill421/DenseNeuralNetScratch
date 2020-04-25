@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from tensorflow.keras.activations import sigmoid
-
+// niggers iffy aah
 # THE ANN ARCHITECTURE 
 # Layer 1 = 64 neurons 
 # layer 2 = 128 neurons 
@@ -11,7 +11,7 @@ from tensorflow.keras.activations import sigmoid
 # output layer will depend on the data and the loss function we choose 
 # We will try to make the generalized architecture that is scalable 
 # We will be choosing the class method instead of the functional approch
-
+// bitches got da stiffy ahh
 class gen_ANN:
     def __init__(self, X, Y, sizes_neuron):
         self.X = X
@@ -49,4 +49,4 @@ class gen_ANN:
 #print(model.test1())
 #print(model.forward_pass())
 
-        
+        // gummo 
